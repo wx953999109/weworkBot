@@ -171,7 +171,7 @@ B站使用教程： 点击查看 
 
 
 
-<img src=".\Images\test.jpg">  
+<img src=".\小蜜蜂企微自动加好友机器人介绍_ima笔记%20(1).png">  
 
 
 
